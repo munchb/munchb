@@ -1,4 +1,3 @@
-- hi, i'm @munchb, or mari
+- student
 - learning python, c
 - reach me via crunchbang@tutanota.com
-<3
