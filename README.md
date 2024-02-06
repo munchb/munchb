@@ -1,3 +1,3 @@
 - student
-- learning python, c
+- learning python, c++
 - reach me via crunchbang@tutanota.com
